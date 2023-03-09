@@ -1,7 +1,4 @@
 **/.ipynb_checkpoints
-**/train
-**/test
-**/test1
 .DS_Store
 **/*.h5
 
